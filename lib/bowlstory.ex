@@ -1,0 +1,2 @@
+defmodule Bowlstory do
+end
